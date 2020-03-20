@@ -18,6 +18,7 @@ class Shoe
     BRANDS << brand
   end
   
+  def new
   "Uggs" = Brands.new
   "Uggs".name = "Uggs"
   "Rainbow" = Brands.new 
