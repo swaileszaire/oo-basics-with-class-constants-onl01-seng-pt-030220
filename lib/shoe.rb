@@ -18,6 +18,9 @@ class Shoe
     BRANDS << brand
   end
   
-  "Uggs" = brands.new 
-  ""
+  "Uggs" = Brands.new
+  "Uggs".name = "Uggs"
+  "Rainbow" = Brands.new 
+  "Rainbow".name = "Rainbow"
+end
 end
