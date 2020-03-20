@@ -23,4 +23,3 @@ class Shoe
   "Rainbow" = Brands.new 
   "Rainbow".name = "Rainbow"
 end
-end
